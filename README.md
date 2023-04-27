@@ -1,8 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) Boilerplate template bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## This template contains:
+
+1. Next JS
+2. Typescript
+3. Tailwind CSS
+4. Ant Design
+5. Moment JS
+6. UUID
+7. Tabler Icons
+8. Axios
+9. ES Lint
+10. Lodash
+
+## You can fork this and add any other required packages for effective development.
 
 ## Getting Started
 
-First, run the development server:
+First, Click on 'Use the template' and create your own repository. All the directories will be copied to your repository and then:
+
+```bash
+npm install
+# or
+yarn add
+```
+
+and
 
 ```bash
 npm run dev
